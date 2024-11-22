@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/OIP-C.jpg</file>
+        <file>image/QQ20241118-105125.png</file>
+        <file>image/111.png</file>
+        <file>image/111111.svg</file>
+        <file>image/17318993338213.jpg</file>
+        <file>image/ser.png</file>
+        <file>image/green.svg</file>
+        <file>image/red.svg</file>
+        <file>image/llllll.png</file>
+    </qresource>
+</RCC>
